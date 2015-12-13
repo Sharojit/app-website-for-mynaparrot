@@ -1,0 +1,1 @@
+It's a simple & very basic html template for Mynaparrot app using twitter bootstrap. It can be use any personal & commercial project, but make sure you remove all of my content & images and replace by yours. You can view this one <a href="http://project.sharojit.com/mynaparrot/">here</a>
